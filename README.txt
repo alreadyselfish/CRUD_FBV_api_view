@@ -21,5 +21,3 @@ can lookup product with primary key = pk
 DELETE loaclhost:8000/api/pk/
 pk = primary key
 can delete product with primary key = pk
-
-22:: This is the last push here. flag = True 
