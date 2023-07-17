@@ -3,5 +3,3 @@ djangorestframework
 pyyaml
 requests
 django-cors-headers 
-pygami
-#JUST ADDING IT here 
